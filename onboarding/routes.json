@@ -1,0 +1,82 @@
+{
+  "join/mechanic": [
+    "Mechanics",
+    "Experience; qualifications if held; workshop details"
+  ],
+  "join/electrician": [
+    "Electricians",
+    "Electrical certifications; experience; insurance where applicable"
+  ],
+  "join/plumber": [
+    "Plumbers",
+    "Trade certifications; experience; insurance where applicable"
+  ],
+  "join/construction": [
+    "Construction",
+    "Trade qualifications; CSCS where required; portfolio"
+  ],
+  "join/nurse": [
+    "Nurses",
+    "Professional registration; qualifications; relevant DBS details"
+  ],
+  "join/carer": [
+    "Carers",
+    "Experience; training; relevant DBS details"
+  ],
+  "join/graduate": [
+    "Graduates",
+    "CV; qualifications; interests"
+  ],
+  "join/waka-delivery": [
+    "Delivery riders",
+    "Vehicle details; licence and insurance where required"
+  ],
+  "join/monarch-waka": [
+    "Drivers",
+    "Appropriate driver and vehicle licences; insurance"
+  ],
+  "join/retail": [
+    "Retail workers",
+    "CV; experience; availability"
+  ],
+  "join/african-shop": [
+    "African shops",
+    "Business details; catalogue; opening hours"
+  ],
+  "join/hospitality": [
+    "Restaurants and bars",
+    "Menu; hygiene information; relevant licences"
+  ],
+  "join/cleaning": [
+    "Cleaners",
+    "Experience; references; insurance where applicable"
+  ],
+  "join/ambassador": [
+    "Ambassadors",
+    "Experience; community connections; coverage"
+  ],
+  "business/hire": [
+    "Hiring managers",
+    "Business details; role descriptions; hiring requirements"
+  ],
+  "business/employer-sponsorship": [
+    "Employer sponsorship",
+    "Employer details; sponsor licence if held; eligible roles"
+  ],
+  "partners/sponsorship": [
+    "Commercial sponsorship",
+    "Business details; proposed partnership; objectives"
+  ],
+  "trade/join": [
+    "Trade",
+    "Business details; products; trading requirements"
+  ],
+  "oblee/matchday": [
+    "Matchday",
+    "Preferred fixtures; party size; accessibility needs"
+  ],
+  "travel/christmas": [
+    "Christmas travel",
+    "Destinations; dates; party size"
+  ]
+}
